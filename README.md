@@ -4,10 +4,10 @@
 
 
 ### Objectives :
--**Handling Categorical Data**
--**Feature Engineering and scaling**
--**Outleir management and data cleaning**
--**Data Visualization via applied statistics**
+* **Handling Categorical Data**
+* **Feature Engineering and scaling**
+* **Outleir management and data cleaning**
+* **Data Visualization via applied statistics**
 
 
 ### Tools :
