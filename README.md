@@ -13,4 +13,8 @@
 ### Tools :
 - **Code editor      : Jupyter Lab**
 - **Python Libraries : Numpy, Pandas, Matplotlib.pyplot, Seaborn, Sklearn, Scipy.Stats**
+- **Python OOP**
 
+### Not Included:
+- **Accuracy Check**
+- **Machine Learning Model**
