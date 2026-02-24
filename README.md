@@ -14,6 +14,7 @@
 - **Code editor      : Jupyter Lab**
 - **Python Libraries : Numpy, Pandas, Matplotlib.pyplot, Seaborn, Sklearn, Scipy.Stats**
 - **Python OOP**
+- **Mathematics : Statistics**
 
 ### Not Included:
 - **Accuracy Check**
