@@ -8,7 +8,7 @@
 * **Feature Engineering and scaling**
 * **Outleir management and data cleaning**
 * **Data Visualization via applied statistics**
-
+* **Excel Data**
 
 ### Tools :
 - **Code editor      : Jupyter Lab**
